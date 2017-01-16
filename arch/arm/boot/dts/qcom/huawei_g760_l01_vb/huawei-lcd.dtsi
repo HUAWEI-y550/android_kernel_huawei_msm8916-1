@@ -8,3 +8,4 @@
 #include "hw-panel-boe-nt35521-5p5-720p-video.dtsi"
 #include "hw-panel-cmi-nt35521-5p5-720p-video.dtsi"
 #include "hw-panel-tianma-nt35521-5p5-720p-video.dtsi"
+#include "hw-default-lcd.dtsi"
